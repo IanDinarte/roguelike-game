@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300b0ac13ec33f44b85771a2b72d07fe, type: 3}
+  m_Name: Weapon_Shield
+  m_EditorClassIdentifier: 
+  itemId: 04
+  itemName: Shield
+  itemDescription: 'Can be used to Defend incoming attacks by pressing the <color=yellow>Right
+    Mouse Button</color>
+
+
+    <i>Dominion From Below.</i>'
+  itemStats: 
+  type: Weapon
+  itemImage: {fileID: 21300000, guid: 3b0edcc2672da4c4ea14a311af5f08ef, type: 3}
+  dropChance: 10
+  price: 75
+  weaponType: <color=yellow>OffHand</color>
+  attackSpeed: 0
+  weight: 0
+  weaponAnimator: {fileID: 0}
+  attackSound: {fileID: 0}
+  baseHealthDamage: 0
+  basePoiseDamage: 0
+  critMultiplier: 0
+  critFactor: 0
+  arrowForce: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 924c0773e6160404097cf80841eaa36a, type: 3}
+  m_Name: Health_Potion
+  m_EditorClassIdentifier: 
+  itemId: 01
+  itemName: Health Potion
+  itemDescription: You bleed and fall but there's always more.
+  itemStats: Heals 25 HP.
+  type: Consumable
+  itemImage: {fileID: 21300000, guid: cf1b7e1db22c7e245afe663be6f064dc, type: 3}
+  dropChance: 20
+  price: 100

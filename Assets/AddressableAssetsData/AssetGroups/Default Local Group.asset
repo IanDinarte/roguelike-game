@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 8a508f3f1a4adf445a1c98e686984b99
+  m_SerializeEntries:
+  - m_GUID: 077f66440e25a6f4eb588b2ddc2ecb67
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07d28e56d4882ca459b1e57ac44e508a
+    m_Address: Assets/Prefabs/Pickables/Items/Weapon/Weapon_Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ae43ed19877982449f0d0798bfbb0df
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Small Gold_Pouch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f5888f4d889925408d58e28a800574e
+    m_Address: Assets/Particles/CC effects/Slow_Effect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14fa2ebf2c5d9764d945c19774d93c74
+    m_Address: Assets/Particles/CC effects/Stun_Effect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18d137acb2daeb944a9e97b100e0fad8
+    m_Address: Assets/Prefabs/Pickables/Items/Weapon/Weapon_Bow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18e5e1f4933e5d24aa1b862fa3a0b04b
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Generic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28a9ec63f7783f74b976dd1d6f27fa6b
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Large Gold_Pouch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dc301a4190c5ae4cbc9987566a82664
+    m_Address: Assets/Prefabs/GameManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 482fdd7740373064289457d524e4acd5
+    m_Address: Assets/Prefabs/Decals/BlackSludgeDecal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a1622069d5fc7446bad51881280d128
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_Machete.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 628303f02d519ec4eaba72b8fa84a131
+    m_Address: Assets/Prefabs/Pickables/Items/Weapon/Weapon_XBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6785d0ded56166f40a1671b53d9fc78f
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Arrowsx10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74c1ba37ab5adec4fb424c0fa0e0d007
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Blood.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ff19c54833aa9c4fa837d54bb56d994
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_Bow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81d4a21d88eb11540bb219d31f83b0f6
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_War.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 822c68c23d8a4b444a6c57f0bb8ef207
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Test.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 848622323721be24f8ecb8da87df9b61
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Terra.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 931d6659004cacb438e303bee5921f19
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Amagic.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ac10625a5190f84aa18ee4ba0c026fe
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Arrowsx5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e5c40b9ec0e65a469d1cf47059c24e4
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0903abeb04d6fe4da13d382d3d12b0d
+    m_Address: Assets/Prefabs/UI/Shop/ShopItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a679b21c26ed3e344b845fe408028cf6
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Medium Gold_Pouch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a756c5356c9ced742aa446927691eec8
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Wind.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9c52dfa733014a4699ea5d0a968c7cf
+    m_Address: Assets/Prefabs/UI/Shop/ShopColumn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac335a77ca1e6814c9b481eb6598a265
+    m_Address: Assets/Prefabs/UI/Shop/AttributesColumn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b067dc5e4be971240b11b64c3a6d0826
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_XBow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba74e549b35376b4988501a993c812ce
+    m_Address: Assets/Prefabs/Pickables/Items/Consumable/Health_Potion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be50bcd9e89227e4aa2a9939533e9fb3
+    m_Address: Assets/Particles/Skill effects/Mind_Decay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16f0df49a5ff3145bcc13e08140e15f
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_Unarmed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ff693451545304daad600ddeb9e21b
+    m_Address: Assets/Particles/Skill effects/Teleport_Effect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfcbee130014a11479f5725dff347d63
+    m_Address: Assets/Prefabs/Entities/Enemies/DarkSpawn.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7d6fdf017807b64fbb90b5a7e73c8bb
+    m_Address: Assets/Prefabs/Pickables/Items/Weapon/Weapon_Machete.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e70b8f129de845943b267fb2b73256a1
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Soul.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed69dfa3b75dd084e815fd4c273c8af4
+    m_Address: Assets/Prefabs/Weapons/Player Weapons/Weapon_Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f094afbf4520d31439ecdbfd231464b8
+    m_Address: Assets/Prefabs/Decals/BloodDecal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f798cdccdfcf0cc4b83e94b2f8d450b7
+    m_Address: Assets/Prefabs/Pickables/Items/Rune/Item_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9eaf88ed281238409b392883c5850de
+    m_Address: Assets/Prefabs/Entities/Enemies/Spectre.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc7831bc6c71d1846b9139b7d62e0a89
+    m_Address: Assets/Prefabs/Pickables/Items/Weapon/Weapon_Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9dbb50e3faa2b914190b9659537f6c59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f201c6524b8ad0444ad84d46b62aacb1, type: 2}
+    - {fileID: 11400000, guid: d0ba9008535c4224191396f8f88abeed, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300b0ac13ec33f44b85771a2b72d07fe, type: 3}
+  m_Name: Weapon_XBow
+  m_EditorClassIdentifier: 
+  itemId: 05
+  itemName: Crossbow
+  itemDescription: 'A heavy arbalest, distant from it''s former glory, it''s indeed
+    a remarkable feat of craftsmanship, an ode to a long forgotten and advanced civilization.
+
+
+    This
+    Weapon needs <color=yellow>Arrows</color> to shoot.'
+  itemStats: 'Dmg: 30 / Stagger: 30
+
+    Crit: 0% / 2x'
+  type: Weapon
+  itemImage: {fileID: 21300000, guid: 4ca989d5d082dc341a874d0b3389796e, type: 3}
+  dropChance: 10
+  price: 100
+  weaponType: <color=yellow>TwoHanded</color>
+  attackSpeed: 2
+  weight: 0
+  weaponAnimator: {fileID: 22100000, guid: 50a5e40689c827046b6b7b730e724efb, type: 2}
+  attackSound: {fileID: 8300000, guid: f120663a6ef3f8e44af17517001bfbb0, type: 3}
+  baseHealthDamage: 30
+  basePoiseDamage: 30
+  critMultiplier: 2
+  critFactor: 0
+  arrowForce: 20

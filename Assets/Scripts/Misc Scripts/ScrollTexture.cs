@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ScrollTexture : MonoBehaviour
+{
+    public float scrollSpeedX;
+    public float scrollSpeedY;
+    private MeshRenderer meshRenderer;
+
+    private void Awake()
+    {
+        meshRenderer = this.GetComponent<MeshRenderer>();
+    }
+    
+    private void Update() {
+        meshRenderer.material.mainTextureOffset = new Vector2(Time.realtimeSinceStartup * scrollSpeedX, Time.realtimeSinceStartup * scrollSpeedY);
+    }
+}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 924c0773e6160404097cf80841eaa36a, type: 3}
+  m_Name: Item_Terra
+  m_EditorClassIdentifier: 
+  itemId: 05
+  itemName: Fortification
+  itemDescription: 'This stone is carved with the symbol of Terra, emanating a faint
+    green glow, and appears to be made entirely of a solid metal.
+
+
+    The skin
+    thickens when it''s bruised, but what happens to the mind?'
+  itemStats: Becomes Physic Resistant.
+  type: Rune
+  itemImage: {fileID: 21300000, guid: 795a3c9be1312234787b8055d2280afe, type: 3}
+  dropChance: 0
+  price: 500

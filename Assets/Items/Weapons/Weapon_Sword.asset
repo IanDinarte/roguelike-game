@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300b0ac13ec33f44b85771a2b72d07fe, type: 3}
+  m_Name: Weapon_Sword
+  m_EditorClassIdentifier: 
+  itemId: 01
+  itemName: Rusted Sword
+  itemDescription: A Rusted sword, the dried blood and advanced corrosion are a reminder
+    of the lives it took.
+  itemStats: 'Dmg: 25 / Stagger: 20
+
+    Crit: 0% / 2x'
+  type: Weapon
+  itemImage: {fileID: 21300000, guid: 577b44f368b7c1442b398a75c97252b8, type: 3}
+  dropChance: 10
+  price: 80
+  weaponType: <color=yellow>OneHanded</color>
+  attackSpeed: 2.5
+  weight: 0
+  weaponAnimator: {fileID: 22100000, guid: c421c3c3d39803241a2f62e112923bb8, type: 2}
+  attackSound: {fileID: 8300000, guid: 9e69338d2c1246347ae7028c4e1aecbf, type: 3}
+  baseHealthDamage: 25
+  basePoiseDamage: 20
+  critMultiplier: 2
+  critFactor: 0
+  arrowForce: 0

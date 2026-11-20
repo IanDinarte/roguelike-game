@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300b0ac13ec33f44b85771a2b72d07fe, type: 3}
+  m_Name: Weapon_Bow
+  m_EditorClassIdentifier: 
+  itemId: 03
+  itemName: Short Bow
+  itemDescription: 'A moldy and worn short bow, the creaking sound of the string
+    makes you feel like it could rip at any moment, yet it persevere to serve the
+    Heirs one more time.
+
+
+    Human craftsmanship is a lot inferior to Dark Elve''s,
+    making this bow a miracle to even exist.
+
+
+    This Weapon needs <color=yellow>Arrows</color>
+    to shoot.'
+  itemStats: 'Dmg: 20 / Stagger: 20
+
+    Crit: 5% / 2x'
+  type: Weapon
+  itemImage: {fileID: 21300000, guid: 4ca989d5d082dc341a874d0b3389796e, type: 3}
+  dropChance: 10
+  price: 100
+  weaponType: <color=yellow>TwoHanded</color>
+  attackSpeed: 3
+  weight: 0
+  weaponAnimator: {fileID: 22100000, guid: 1a5ddd5e48c7c8944a7f7e724b512b83, type: 2}
+  attackSound: {fileID: 8300000, guid: 4538418882a13ef48896a4d61088777b, type: 3}
+  baseHealthDamage: 20
+  basePoiseDamage: 20
+  critMultiplier: 2
+  critFactor: 5
+  arrowForce: 15
